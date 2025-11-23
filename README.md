@@ -1,11 +1,11 @@
-# My dotfiles
-My dotfiles configs
+# Dotfiles Repository
+Configuration files for my development environment.
 
-## What I use 
-  - TMUX
-  - Neovim
-  - Oh My Zsh
+## Tools
+- **TMUX**
+- **Neovim**
+- **Oh My Zsh**
 
-## Things to note
-  - Most of these are just theme changes
-  - In .zshrc I have my compiler to **GNU GCC 15.2.0** instead of apple clang
+## Notes
+- Primarily theme and appearance customizations.
+- `.zshrc` is configured to use **GNU GCC 15.2.0** as the default compiler instead of Apple Clang.
